@@ -21,3 +21,11 @@ raw data :
 GET request : http://localhost:8080/api/polls
 
 GET By ID : http://localhost:8080/api/polls/1
+
+POST Request for Polling Votes
+http://localhost:8080/api/polls/vote
+
+{
+"pollId" : 1,
+"OptionIndex" : 1  
+}

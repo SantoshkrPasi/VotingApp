@@ -29,3 +29,7 @@ http://localhost:8080/api/polls/vote
 "pollId" : 1,
 "OptionIndex" : 1  
 }
+
+RUN Backend Using IntelliJ
+
+RUN Frontend with npm start or ng serve
